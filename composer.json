@@ -8,5 +8,6 @@
             "email": "antoniomquadrosfilho@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "license": "MIT"
 }
