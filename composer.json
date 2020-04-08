@@ -1,5 +1,5 @@
 {
-    "name": "godo/olx-crawler",
+    "name": "olxcrawler/olxcrawler",
     "description": "OLX Crawler",
     "type": "library",
     "authors": [
@@ -8,8 +8,14 @@
             "email": "antoniomquadrosfilho@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-0": {
+            "OlxCrawler": "src/"
+        }
+    },
     "require": {},
     "license": "MIT",
     "version": "1.0.0",
-    "minimum-stability": "stable"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
