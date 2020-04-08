@@ -1,0 +1,12 @@
+{
+    "name": "godo/olx-crawler",
+    "description": "OLX Crawler",
+    "type": "library",
+    "authors": [
+        {
+            "name": "antoniomquadrosfilho",
+            "email": "antoniomquadrosfilho@gmail.com"
+        }
+    ],
+    "require": {}
+}
