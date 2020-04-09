@@ -16,6 +16,6 @@
     "require": {},
     "license": "MIT",
     "version": "1.0.0",
-    "minimum-stability": "dev",
+    "minimum-stability": "alpha",
     "prefer-stable": true
 }
